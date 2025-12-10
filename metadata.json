@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of 專題試做06",
+  "description": "An interactive 3D experience where your selfie becomes a dynamic, folding digital tapestry controlled by your movement.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
